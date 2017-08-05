@@ -1,5 +1,5 @@
 # mongoose-ws2812b
-Mongoose driver for the WS2812B (aka NeoPixel) RGB LED strip.
+Mongoose OS driver for the WS2812B (aka NeoPixel) RGB LED strip.
 
 ## Overview
 This driver enables control of the WS2812B (aka NeoPixel) RGB LED strip on Mongoose OS.
